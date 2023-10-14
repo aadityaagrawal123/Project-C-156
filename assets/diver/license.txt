@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Diver
+* source:	https://sketchfab.com/3d-models/the-diver-cf096d52e26a4ed397e13c7ccbd52f6b
+* author:	amt16 (https://sketchfab.com/amt16)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Diver" (https://sketchfab.com/3d-models/the-diver-cf096d52e26a4ed397e13c7ccbd52f6b) by amt16 (https://sketchfab.com/amt16) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
